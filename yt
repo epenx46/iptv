@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UCQfwfsi5VrQ8yKZ-UWmAEFg" tvg-name="France 24 English" tvg-language="" tvg-country="BR" tvg-logo="https://yt3.ggpht.com/-Qc-MGBq90YE/AAAAAAAAAAI/AAAAAAAAAAA/AAmrwHX7No0/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-url="" group-title="",France 24 English
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=BJzSJlMwQcA
+#EXTINF:-1 tvg-id="UCVgO39Bk5sMo66-6o6Spn6Q" tvg-name="ABC News AU" tvg-language="" tvg-country="BR" tvg-logo="https://yt3.ggpht.com/-Eh3AwGhwPeI/AAAAAAAAAAI/AAAAAAAAAAA/QomvTf2lg_s/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-url="" group-title="",ABC News AU
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=pES1Zd_vyjU
